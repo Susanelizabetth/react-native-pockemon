@@ -1,3 +1,3 @@
 # react-native-pockemon
-##init whit
-´´´yarn´´´
+## init whit
+´´´ yarn ´´´
